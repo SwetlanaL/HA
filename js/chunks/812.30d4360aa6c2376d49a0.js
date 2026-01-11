@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhaertelautomatisering=self.webpackChunkhaertelautomatisering||[]).push([[812],{177:function(e,t){t.A=e=>{const t=document.querySelector(e);if(t)return t;throw new Error(`Please check "${e}" selector, no such element exist`)}},812:function(e,t,n){n.r(t);var r=n(177);t.default=()=>{let e=(new Date).getFullYear();(0,r.A)("time").textContent=e}}}]);

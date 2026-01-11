@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[562],{562:(e,t,n)=>{n.r(t),n.d(t,{default:()=>c});var r=n(126);const c=()=>{let e=(new Date).getFullYear();(0,r.Z)("time").textContent=e}},126:(e,t,n)=>{n.d(t,{Z:()=>r});const r=e=>{const t=document.querySelector(e);if(t)return t;throw new Error(`Please check "${e}" selector, no such element exist`)}}}]);
