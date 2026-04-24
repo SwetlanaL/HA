@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhaertelautomatisering=self.webpackChunkhaertelautomatisering||[]).push([[812],{6812:function(t,e,a){a.r(e),e.default=()=>{const t=document.querySelector(".footer__copyright time");if(t){const e=(new Date).getFullYear();t.textContent=e,t.setAttribute("datetime",e)}}}}]);
